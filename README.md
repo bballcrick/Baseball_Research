@@ -1,2 +1,2 @@
 # Baseball_Research
-Personal Projects for Data Analysis
+This repository is dedicated to Baseball Projects
